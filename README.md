@@ -22,3 +22,10 @@ A canonical interface for Ethereum’s governance layer: constitutions, quadrati
   "ratified_by": "51% staked ETH",
   "interface_reference": "OmnilexDeus/v0.1"
 }
+---
+
+## Domain Disclosure
+
+OmnilexDeus.com is currently listed but unmarketed.
+
+If the Ethereum community finds value in formalizing this concept, the domain will be transferred to a credible, Ethereum-aligned steward or working group. This initiative is non-speculative and committed to public utility.
